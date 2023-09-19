@@ -4,7 +4,7 @@ This exercise can turn into a looping festival if we don't pay attention to perf
 The suggested data structure helps reduce loops by providing an O(1) access time when marking numbers.
 The below is an example of how one board is represented:
 
-```txt
+```js
 '0': {
     numbers: {
     '5': [ 2, 0, false ],
